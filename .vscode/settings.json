@@ -1,0 +1,11 @@
+{
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true
+    },
+}
